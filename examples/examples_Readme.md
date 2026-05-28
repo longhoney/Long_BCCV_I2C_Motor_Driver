@@ -8,7 +8,7 @@
 <img width="1050" height="752" alt="image" src="https://github.com/user-attachments/assets/4f182db8-b279-43d9-857e-f384226559cc" />
 
     - Quy ước cho L9110
-<img width="770" height="613" alt="image" src="https://github.com/user-attachments/assets/d4f75992-2a0c-4d61-942f-15c098288fe6" />
+<img width="1514" height="612" alt="image" src="https://github.com/user-attachments/assets/9a3d9d16-ae5a-43e8-9f6f-a0e041cd63d3" />
 
     - Quy ước cho L298
 <img width="1056" height="484" alt="image" src="https://github.com/user-attachments/assets/12fe4215-1cb1-4d21-a8cf-980c7b258cce" />
