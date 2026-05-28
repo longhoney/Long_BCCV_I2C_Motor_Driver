@@ -39,8 +39,17 @@ void setup()
   demo.setup(PIN_ENA, PIN_IN1, PIN_IN2, PIN_IN3, PIN_IN4, PIN_ENB);
 
   //Khảo sát tại từng tính hướng cố định
-  Serial.println("Đi thẳng tốc độ 100%.");
-  demo.car_fw(100, 100); 
+  // Serial.println("Đi thẳng tốc độ 100%.");
+  // demo.car_fw(100, 100); 
+
+  // Serial.println("Đi thẳng tốc độ 50%.");
+  // demo.car_fw(50, 50);
+
+  // Serial.println("Đi lùi tốc độ 100%.");
+  // demo.car_bw(100, 100);
+
+  Serial.println("Đi lùi tốc độ 50%.");
+  demo.car_bw(50, 50);
 }
 
 /* ------------------------------------------------------------------------- */
